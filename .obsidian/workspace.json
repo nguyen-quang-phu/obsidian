@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-21.md",
+                "file": "02. Areas/001. System Design/1740125052-ZKDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-21"
+              "title": "1740125052-ZKDP"
             }
           }
         ]
@@ -165,12 +165,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "local-backup:Run local backup": false
     }
   },
   "active": "c1d0dab0262c9125",
   "lastOpenFiles": [
+    "02. Areas/001. System Design/1740125052-ZKDP.md~",
     "02. Areas/001. System Design/1740123000-BIVQ.md",
+    "02. Areas/001. System Design/001. Links.md",
+    "02. Areas/001. System Design/001. Links.md~",
+    "02. Areas/001. System Design/1740125052-ZKDP.md",
     "2025-02-21.md",
     "02. Areas/001. System Design/1740122984-EZQV.md",
     "2025-02-20.md~",
