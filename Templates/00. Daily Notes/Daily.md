@@ -1,10 +1,6 @@
 ---
-id: daily
-aliases: []
-tags:
-  - #Log/DailyLog
-created:
-  - "{{date}} {{time}}"
+created: ["{{date}} {{time}}"]
+tags: ["#Log/DailyLog"]
 ---
 
 # 📅 Daily Log {{date: DD-MM-YYYY}}
@@ -31,7 +27,7 @@ created:
 1. Lingering Feelings
 	1. 
 2. Observations
-	1. 
+	2. 
 3. Thoughts
 	1. 
 ## 🔃 Reflection
@@ -40,4 +36,4 @@ created:
 
 ## 📅 Today's Notes
 - 🕛9:00 
-	- Wok up and 
+	- Wok up and
