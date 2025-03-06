@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c4fc49de0c4a92e4",
+        "id": "6c44fbaef0103393",
         "type": "tabs",
         "children": [
           {
-            "id": "32eb45e4b0d9bf1e",
+            "id": "0ed0840df43458d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/00. Daily Notes/Daily.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "New tab"
             }
           }
         ]
@@ -170,8 +166,9 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "32eb45e4b0d9bf1e",
+  "active": "0ed0840df43458d9",
   "lastOpenFiles": [
+    "Templates/00. Daily Notes/Daily.md",
     "02. Areas/001. System Design/1740506859-ZROO.md~",
     "02. Areas/001. System Design/001. Links.md~",
     "02. Areas/001. System Design/1740506859-ZROO.md",
@@ -188,7 +185,6 @@
     "05. Notes/dailies/2025-02-25.md",
     "Templates/00. Daily Notes/Daily.md~",
     "temp.md",
-    "Templates/00. Daily Notes/Daily.md",
     "Templates/00. Daily Notes/daily.md",
     "02. Areas/001. System Design/1740405967-EKLL.md",
     "02. Areas/001. System Design/001. Links.md",
@@ -197,7 +193,6 @@
     "02. Areas/001. System Design/1740123000-BIVQ.md",
     "2025-02-21.md",
     "02. Areas/001. System Design/1740122984-EZQV.md",
-    "2025-02-20.md~",
     "1740040883-RQYU.md",
     "1740040830-ELHS.md",
     "1740040766-MAVO.md",
