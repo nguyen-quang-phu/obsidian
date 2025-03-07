@@ -11,10 +11,14 @@
             "id": "0ed0840df43458d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02. Areas/001. System Design/1741284479-UMIC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1741284479-UMIC"
             }
           }
         ]
@@ -146,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of 2025-02-20"
             }
+          },
+          {
+            "id": "f5d36c62bdd9b577",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
