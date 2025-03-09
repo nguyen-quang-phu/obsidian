@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1741284479-UMIC"
             }
+          },
+          {
+            "id": "af98077bb3376f06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "f5d36c62bdd9b577",
+  "active": "af98077bb3376f06",
   "lastOpenFiles": [
     "02. Areas/001. System Design/1741284479-UMIC.md~",
     "Templates/00. Daily Notes/Daily.md",
